@@ -1,0 +1,4 @@
+C:/Users/Omar/Desktop/cmake-tm4c-blinky-master/build/IoT-Debug/CMakeFiles/flash.dir
+C:/Users/Omar/Desktop/cmake-tm4c-blinky-master/build/IoT-Debug/CMakeFiles/linux_blinky.axf.dir
+C:/Users/Omar/Desktop/cmake-tm4c-blinky-master/build/IoT-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Omar/Desktop/cmake-tm4c-blinky-master/build/IoT-Debug/CMakeFiles/rebuild_cache.dir

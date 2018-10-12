@@ -1,0 +1,4 @@
+C:/Users/Omar/Desktop/cmake-tm4c-blinky-master/build/CMakeFiles/flash.dir
+C:/Users/Omar/Desktop/cmake-tm4c-blinky-master/build/CMakeFiles/linux_blinky.axf.dir
+C:/Users/Omar/Desktop/cmake-tm4c-blinky-master/build/CMakeFiles/edit_cache.dir
+C:/Users/Omar/Desktop/cmake-tm4c-blinky-master/build/CMakeFiles/rebuild_cache.dir

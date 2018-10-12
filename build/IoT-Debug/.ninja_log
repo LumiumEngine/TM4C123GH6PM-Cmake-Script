@@ -1,0 +1,11 @@
+# ninja log v5
+3	85	560814934	CMakeFiles/linux_blinky.axf.dir/src/blinky.cpp.obj	c45b48833a37b572
+0	86	560814934	CMakeFiles/linux_blinky.axf.dir/src/startup.c.obj	3d58336dd77d8b09
+86	166	560814934	linux_blinky.axf	4fe8b48384848672
+1	87	560814937	CMakeFiles/linux_blinky.axf.dir/src/startup.c.obj	3d58336dd77d8b09
+4	87	560814937	CMakeFiles/linux_blinky.axf.dir/src/blinky.cpp.obj	c45b48833a37b572
+87	155	560814937	linux_blinky.axf	4fe8b48384848672
+1	91	560814957	CMakeFiles/linux_blinky.axf.dir/src/startup.c.obj	3d58336dd77d8b09
+6	91	560814957	CMakeFiles/linux_blinky.axf.dir/src/blinky.cpp.obj	c45b48833a37b572
+91	156	560814957	linux_blinky.axf	4fe8b48384848672
+1	1450	0	CMakeFiles/flash	a67057b9a9d49991
